@@ -35,7 +35,6 @@ Preprocessing Pipeline
 
 Raw NIfTI (.nii)
       ↓
-
       
 Extract 2D axial slices (nibabel)
       ↓
