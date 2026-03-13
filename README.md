@@ -11,5 +11,5 @@ Manual segmentation of liver tumors by radiologists is time-consuming, labor-int
 
 📊 Results 
 
-![alt text](Result.png)
+
 
