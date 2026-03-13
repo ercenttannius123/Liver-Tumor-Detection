@@ -39,22 +39,32 @@ Raw NIfTI (.nii)
       ↓
       
 Extract 2D axial slices (nibabel)
+     
+      
       ↓
 
       
 HU Windowing → clip [-150, +250] HU
+     
+      
       ↓
 
       
 Normalize → [0, 1]
+     
+      
       ↓
 
       
 Mask Binarization → label > 0 = 1 (liver + tumor)
+     
+      
       ↓
 
       
 Resize → 128 × 128 pixels
+     
+      
       ↓
 
       
