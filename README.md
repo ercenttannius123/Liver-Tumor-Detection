@@ -1,4 +1,4 @@
-## Automatic Liver & Tumor Segmentation on CT Scan Images 
+## Comparing SimpleCNN, SimpleSegNet, and U-Net for Liver and Tumor Segmentation in CT Scan Images
 
 📋 Overview 
 
