@@ -12,19 +12,19 @@ Manual segmentation of liver tumors by radiologists is time-consuming, labor-int
 📊 Results 
   
   
-Accuracy        : 0.9939
+Accuracy        : 0.998155
 
 
-Precision       : 0.9433
+Precision       : 0.984693
 
 
-Recall          : 0.9630
+Recall          : 0.987404
 
-Specificity     : 0.9960
+Specificity     : 0.998915
 
-Dice Score      : 0.9531  
+Dice Score      : 0.986047  
 
-Jaccard Index   : 0.9104
+Jaccard Index   : 0.972478
 
 
 Preprocessing Pipeline
